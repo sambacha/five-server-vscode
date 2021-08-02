@@ -1,28 +1,16 @@
 {
-  "name": "five-server",
-  "displayName": "Five Server (Live Server)",
-  "description": "Dev Server with Live Reload. (Maintained Fork of Live Server)",
+  "name": "zero-server",
+  "displayName": "live server",
+  "description": "Live Server ",
   "version": "0.0.32",
-  "publisher": "yandeu",
-  "icon": "img/icon-star.png",
-  "license": "SEE LICENSE IN LICENSE",
+  "publisher": "zero",
+  "icon": "",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.42.1"
   },
   "categories": [
     "Other"
-  ],
-  "badges": [
-    {
-      "url": "https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=social&logo=GitHub",
-      "href": "https://github.com/sponsors/yandeu",
-      "description": "GitHub Sponsors"
-    },
-    {
-      "url": "https://img.shields.io/badge/One--Time%20Donation-$1-lightgrey?style=social&logo=GitHub",
-      "href": "https://github.com/sponsors/yandeu?frequency=one-time&sponsor=yandeu#sponsors:~:text=%241%20one%20time",
-      "description": "One-Time Donation"
-    }
   ],
   "keywords": [
     "remote",
@@ -48,7 +36,7 @@
     "color": "#41205f",
     "theme": "dark"
   },
-  "qna": "https://github.com/yandeu/five-server/discussions",
+  "qna": "https://github.com/sambacha/five-server/discussions",
   "activationEvents": [
     "*"
   ],
